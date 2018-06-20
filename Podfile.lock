@@ -1,0 +1,15 @@
+PODS:
+  - DropDown (2.3.2)
+  - ScrollableSegmentedControl (1.3.0)
+
+DEPENDENCIES:
+  - DropDown
+  - ScrollableSegmentedControl (~> 1.3.0)
+
+SPEC CHECKSUMS:
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  ScrollableSegmentedControl: a90ae91537fd670a46b177301d035223e3bd149e
+
+PODFILE CHECKSUM: 415e97cb0e390b673008b9c55cffbd1f5aa14b12
+
+COCOAPODS: 1.4.0
